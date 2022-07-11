@@ -11,6 +11,7 @@ const assignment = {};
  * If you did Challenge - 1, remove the comment in the line just after this function
  * 
  * @param {Array} arrayOfNumbers the array of numbers to sum
+* @returns number the sum of the numbers
  */
 
 function sumOfNumbers(arrayOfNumbers) {
@@ -31,6 +32,7 @@ assignment.sumOfNumbers = sumOfNumbers;
  * If you did Challenge - 2, remove the comment in the line just after this function
  * 
  * @param {Array} arrayOfNumbers the array containing even or non-even numbers
+ * @returns number the count of even numbers
  */
 
 function countEvenNumbers(arrayOfNumbers) {
